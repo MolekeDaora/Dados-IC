@@ -8,4 +8,4 @@
 015_1.jpg;21.763276424808677;1.2913721238804154;1.6053750250244345;T0;1;https://raw.githubusercontent.com/MolekeDaora/Dados-IC/master/doge2.jpg;N;S;24.758836806279895;P;N;VERMELHO
 3146_6.jpg;-17.581397876529074;7.059904503624714;-15.225319456395972;T0;6;https://raw.githubusercontent.com/MolekeDaora/Dados-IC/master/doge1.jpg;N;S;26.457513110645905;P;N;VERMELHO
 3177_6.jpg;-2.307257672204202;-18.955497874990613;1.5152237284733696;T0;6;https://raw.githubusercontent.com/MolekeDaora/Dados-IC/master/homer.png;N;S;27.748873851023216;P;N;VERMELHO
-3064_6.jpg;25.153337469750234;6.265274629745214;-0.5889560783264743;T0;6;https://raw.githubusercontent.com/MolekeDaora/Dados-IC/master/nazare.jpg;N;S;29.359836511806396;P;N;VERMELHO
+3064_6.jpg;25.153337469750234;6.265274629745214;-0.5889560783264743;T0;6;https://raw.githubusercontent.com/MolekeDaora/Dados-IC/master/nazare.jpg;N;S;29.359836511806396;P;N;CINZA
